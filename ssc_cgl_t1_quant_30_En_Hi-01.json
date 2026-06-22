@@ -238,63 +238,15 @@
     "C": "8%",
     "D": "7.5%",
     "Correct": "B"
-  }
-
-
-Conversation with Gemini
-[
-
+  },
   {
-
     "Question": "What is the capital of India? / भारत की राजधानी क्या है?",
-
     "A": "Mumbai / मुंबई",
-
     "B": "New Delhi / नई दिल्ली",
-
     "C": "Chennai / चेन्नई",
-
     "D": "Kolkata / कोलकाता",
-
     "Correct": "B"
-
-  }, in this format give 80 mcq for SSC CGL Tier 1 Quantitative Aptitude
-
-I have prepared a comprehensive practice set of 80 Quantitative Aptitude questions tailored for the SSC CGL Tier 1 exam. This collection covers key topics including Arithmetic (Profit and Loss, Time and Work, Percentages, Interest, Ratio) and Advance Mathematics (Algebra, Geometry, Trigonometry, and Mensuration).
-
-Each question is presented in both English and Hindi to match the exam pattern, and I have included detailed rationales to help you understand the shortcuts and concepts required to solve them efficiently.
-SSC CGL Tier 1 Quant Practice Set
-Jun 22, 8:57 PM
-
-I have started the quiz with 10 high-quality questions spanning the major sections of the SSC CGL Quant syllabus. Given the constraints of a single response for such a large volume, I can provide the remaining 70 questions in subsequent batches if you would like to continue.
-
-This first set focuses on essential "Must-Know" patterns for Tier 1. Keep practicing these identities and shortcuts—they are the key to clearing the cutoff! Would you like me to generate the next 10-20 questions now?
-
-give me 30 question first
-
-यहाँ SSC CGL Tier 1 Quantitative Aptitude के लिए 30 बहुविकल्पीय प्रश्न (MCQs) दिए गए हैं। ये प्रश्न परीक्षा के स्तर के अनुरूप अंकगणित (Arithmetic) और अग्रिम गणित (Advance Maths) दोनों पर आधारित हैं।
-SSC CGL Tier 1: Quantitative Aptitude (Part 1)
-Jun 22, 8:59 PM
-
-यह अभ्यास सेट आपकी गति और सटीकता को बेहतर बनाने में मदद करेगा। ध्यान से प्रयास करें, आपको परीक्षा के लिए बहुत-बहुत शुभकामनाएँ! यदि आप अगले प्रश्न चाहते हैं, तो कृपया बताएं।
-
-I need json file
-
-Your JSON file is ready
-JSON icon
-ssc_cgl_quant_30_questions
- JSON 
-Open
-
-The 30 Quant MCQs have been converted into your requested exact schema format inside this JSON file. Each item includes the bilingual Question, options A through D, and the string key indicating the Correct choice.
-
-Give 30 more
-
-Python
-import json
-
-# Define the next 30 questions (Questions 31 to 60) for SSC CGL Tier 1 Quantitative Aptitude
-more_questions = [
+  }, 
   {
     "Question": "The ratio of the speeds of two trains is 7 : 8. If the second train runs 400 km in 4 hours, find the speed of the first train. / दो ट्रेनों की चालों का अनुपात 7 : 8 है। यदि दूसरी ट्रेन 4 घंटों में 400 किमी चलती है, तो पहली ट्रेन की चाल ज्ञात कीजिए।",
     "A": "70 km/h / किमी/घंटा",
