@@ -1,0 +1,242 @@
+[
+  {
+    "Question": "If A : B = 2 : 3 and B : C = 4 : 5, then find A : B : C. / यदि A : B = 2 : 3 और B : C = 4 : 5 है, तो A : B : C ज्ञात कीजिए।",
+    "A": "8 : 12 : 15",
+    "B": "2 : 4 : 5",
+    "C": "6 : 9 : 15",
+    "D": "8 : 10 : 15",
+    "Correct": "A"
+  },
+  {
+    "Question": "A sum of money doubles itself in 5 years at simple interest. In how many years will it become 4 times itself? / साधारण ब्याज पर कोई धनराशि 5 वर्षों में दोगुनी हो जाती है। कितने वर्षों में यह स्वयं की 4 गुनी हो जाएगी?",
+    "A": "10 years / 10 वर्ष",
+    "B": "15 years / 15 वर्ष",
+    "C": "20 years / 20 वर्ष",
+    "D": "12 years / 12 वर्ष",
+    "Correct": "B"
+  },
+  {
+    "Question": "If tan θ = 4/3, then find the value of sin θ + cos θ. / यदि tan θ = 4/3 है, तो sin θ + cos θ का मान ज्ञात कीजिए।",
+    "A": "7/5",
+    "B": "1/5",
+    "C": "5/7",
+    "D": "1",
+    "Correct": "A"
+  },
+  {
+    "Question": "A, B and C can complete a work in 10, 12 and 15 days respectively. In how many days can they together complete the work? / A, B और C किसी कार्य को क्रमशः 10, 12 और 15 दिनों में पूरा कर सकते हैं। वे सब मिलकर उस कार्य को कितने दिनों में पूरा कर सकते हैं?",
+    "A": "5 days / 5 दिन",
+    "B": "4 days / 4 दिन",
+    "C": "6 days / 6 दिन",
+    "D": "3 days / 3 दिन",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find the remainder when 7^19 + 2 is divided by 6. / 7^19 + 2 को 6 से विभाजित करने पर प्राप्त शेषफल ज्ञात कीजिए।",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "5",
+    "Correct": "C"
+  },
+  {
+    "Question": "The average of 5 consecutive numbers is 20. Find the largest of these numbers. / 5 लगातार संख्याओं का औसत 20 है। इनमें से सबसे बड़ी संख्या ज्ञात कीजिए।",
+    "A": "20",
+    "B": "22",
+    "C": "24",
+    "D": "21",
+    "Correct": "B"
+  },
+  {
+    "Question": "An article is sold for $920 at a loss of 8%. What should be the selling price to gain 5%? / एक वस्तु को 8% की हानि पर $920 में बेचा जाता है। 5% का लाभ प्राप्त करने के लिए विक्रय मूल्य क्या होना चाहिए?",
+    "A": "$1050",
+    "B": "$1000",
+    "C": "$1100",
+    "D": "$1080",
+    "Correct": "A"
+  },
+  {
+    "Question": "If x + 1/x = 5, then find the value of x^2 + 1/x^2. / यदि x + 1/x = 5 है, तो x^2 + 1/x^2 का मान ज्ञात कीजिए।",
+    "A": "25",
+    "B": "23",
+    "C": "27",
+    "D": "20",
+    "Correct": "B"
+  },
+  {
+    "Question": "A train 150 meters long passes a telegraph post in 12 seconds. Find the speed of the train in km/h. / 150 मीटर लंबी एक ट्रेन एक टेलीग्राफ पोस्ट को 12 सेकंड में पार करती है। ट्रेन की चाल किमी/घंटा में ज्ञात कीजिए।",
+    "A": "45 km/h / 45 किमी/घंटा",
+    "B": "50 km/h / 50 किमी/घंटा",
+    "C": "36 km/h / 36 किमी/घंटा",
+    "D": "60 km/h / 60 किमी/घंटा",
+    "Correct": "A"
+  },
+  {
+    "Question": "The single discount equivalent to two successive discounts of 20% and 10% is: / 20% और 10% की दो क्रमिक छूटों के समतुल्य एकल छूट क्या है?",
+    "A": "30%",
+    "B": "28%",
+    "C": "25%",
+    "D": "32%",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is the volume of a sphere whose radius is 3 cm? (Take π = 22/7) / एक गोले का आयतन क्या होगा जिसकी त्रिज्या 3 सेमी है? (π = 22/7 लें)",
+    "A": "113.14 cm³ / सेमी³",
+    "B": "37.71 cm³ / सेमी³",
+    "C": "150.85 cm³ / सेमी³",
+    "D": "84.85 cm³ / सेमी³",
+    "Correct": "A"
+  },
+  {
+    "Question": "If a+b+c = 0, then find the value of (a^3+b^3+c^3)/(abc). / यदि a+b+c = 0 है, तो (a^3+b^3+c^3)/(abc) का मान ज्ञात कीजिए।",
+    "A": "1",
+    "B": "3",
+    "C": "0",
+    "D": "-3",
+    "Correct": "B"
+  },
+  {
+    "Question": "Two numbers are in the ratio 3 : 4. If their HCF is 4, find their LCM. / दो संख्याएँ 3 : 4 के अनुपात में हैं। यदि उनका म.स.प. (HCF) 4 है, तो उनका ल.स.प. (LCM) ज्ञात कीजिए।",
+    "A": "12",
+    "B": "48",
+    "C": "24",
+    "D": "16",
+    "Correct": "B"
+  },
+  {
+    "Question": "The income of A is 25% more than that of B. By how much percent is B's income less than A's income? / A की आय B की आय से 25% अधिक है। B की आय A की आय से कितने प्रतिशत कम है?",
+    "A": "25%",
+    "B": "20%",
+    "C": "15%",
+    "D": "33.33%",
+    "Correct": "B"
+  },
+  {
+    "Question": "If the area of a circle is 154 cm², find its perimeter. (Take π = 22/7) / यदि एक वृत्त का क्षेत्रफल 154 सेमी² है, तो उसकी परिधि ज्ञात कीजिए। (π = 22/7 लें)",
+    "A": "22 cm / सेमी",
+    "B": "44 cm / सेमी",
+    "C": "88 cm / सेमी",
+    "D": "14 cm / सेमी",
+    "Correct": "B"
+  },
+  {
+    "Question": "The ratio of spirit and water in two mixtures of 20 liters and 36 liters is 3 : 7 and 7 : 5 respectively. Both mixtures are mixed together. Find the ratio of spirit to water in the new mixture. / 20 लीटर और 36 लीटर के दो मिश्रणों में स्पिरिट और पानी का अनुपात क्रमशः 3 : 7 और 7 : 5 है। दोनों मिश्रणों को आपस में मिला दिया जाता है। नए मिश्रण में स्पिरिट और पानी का अनुपात ज्ञात कीजिए।",
+    "A": "27 : 29",
+    "B": "5 : 6",
+    "C": "29 : 27",
+    "D": "11 : 15",
+    "Correct": "A"
+  },
+  {
+    "Question": "A boat goes 24 km upstream and 28 km downstream in 6 hours. It goes 30 km upstream and 21 km downstream in 6.5 hours. Find the speed of the boat in still water. / एक नाव धारा के प्रतिकूल 24 किमी और धारा के अनुकूल 28 किमी 6 घंटे में जाती है। यह धारा के प्रतिकूल 30 किमी और धारा के अनुकूल 21 किमी 6.5 घंटे में जाती है। शांत जल में नाव की चाल ज्ञात कीजिए।",
+    "A": "10 km/h / 10 किमी/घंटा",
+    "B": "8 km/h / 8 किमी/घंटा",
+    "C": "12 km/h / 12 किमी/घंटा",
+    "D": "4 km/h / 4 किमी/घंटा",
+    "Correct": "A"
+  },
+  {
+    "Question": "If sec θ + tan θ = 3, then find the value of sec θ. / यदि sec θ + tan θ = 3 है, तो sec θ का मान ज्ञात कीजिए।",
+    "A": "5/3",
+    "B": "4/3",
+    "C": "2",
+    "D": "3/5",
+    "Correct": "A"
+  },
+  {
+    "Question": "The side of an equilateral triangle is 8 cm. Find its area. / एक samabahu tribhuj की भुजा 8 सेमी है। इसका क्षेत्रफल ज्ञात कीजिए।",
+    "A": "16√3 cm² / सेमी²",
+    "B": "32√3 cm² / सेमी²",
+    "C": "24 cm² / सेमी²",
+    "D": "12√3 cm² / सेमी²",
+    "Correct": "A"
+  },
+  {
+    "Question": "A dealer marks his goods 20% above the cost price and allows a discount of 10%. Find his profit percentage. / एक व्यापारी अपनी वस्तुओं पर क्रय मूल्य से 20% अधिक मूल्य अंकित करता है और 10% की छूट देता है। उसका लाभ प्रतिशत ज्ञात कीजिए।",
+    "A": "10%",
+    "B": "8%",
+    "C": "12%",
+    "D": "5%",
+    "Correct": "B"
+  },
+  {
+    "Question": "If x^3 + y^3 = 35 and x + y = 5, then find the value of x^2 + y^2. / यदि x^3 + y^3 = 35 और x + y = 5 है, तो x^2 + y^2 का मान ज्ञात कीजिए।",
+    "A": "13",
+    "B": "25",
+    "C": "17",
+    "D": "10",
+    "Correct": "A"
+  },
+  {
+    "Question": "The compound interest on $2000 for 2 years at 10% per annum, compounded annually, is: / $2000 पर 10% वार्षिक दर से 2 वर्ष का वार्षिक रूप से संयोजित चक्रवृद्धि ब्याज कितना होगा?",
+    "A": "$400",
+    "B": "$420",
+    "C": "$440",
+    "D": "$210",
+    "Correct": "B"
+  },
+  {
+    "Question": "In a triangle ABC, if ∠A = 70° and the internal bisectors of ∠B and ∠C meet at O, then find ∠BOC. / एक त्रिभुज ABC में, यदि ∠A = 70° है और ∠B तथा ∠C के आंतरिक समद्विभाजक बिंदु O पर मिलते हैं, तो ∠BOC ज्ञात कीजिए।",
+    "A": "110°",
+    "B": "125°",
+    "C": "140°",
+    "D": "105°",
+    "Correct": "B"
+  },
+  {
+    "Question": "The ratio of the areas of two squares is 9 : 16. Find the ratio of their perimeters. / दो वर्गों के क्षेत्रफलों का अनुपात 9 : 16 है। उनके परिमापों का अनुपात ज्ञात कीजिए।",
+    "A": "3 : 4",
+    "B": "9 : 16",
+    "C": "81 : 256",
+    "D": "2 : 3",
+    "Correct": "A"
+  },
+  {
+    "Question": "A person covers a certain distance at 20 km/h and returns at 30 km/h. Find his average speed for the whole journey. / एक व्यक्ति एक निश्चित दूरी 20 किमी/घंटा की चाल से तय करता है और 30 किमी/घंटा की चाल से वापस आता है। पूरी यात्रा के लिए उसकी औसत चाल ज्ञात कीजिए।",
+    "A": "25 km/h / 25 किमी/घंटा",
+    "B": "24 km/h / 24 किमी/घंटा",
+    "C": "26 km/h / 26 किमी/घंटा",
+    "D": "22.5 km/h / 22.5 किमी/घंटा",
+    "Correct": "B"
+  },
+  {
+    "Question": "If sin θ = cos (θ - 6°), where θ and (θ - 6°) are acute angles, find the value of θ. / यदि sin θ = cos (θ - 6°) है, जहाँ θ और (θ - 6°) न्यूनकोण हैं, तो θ का मान ज्ञात कीजिए।",
+    "A": "48°",
+    "B": "42°",
+    "C": "45°",
+    "D": "54°",
+    "Correct": "A"
+  },
+  {
+    "Question": "Find the length of the longest rod that can be placed in a room of dimensions 12 m × 9 m × 8 m. / 12 मी × 9 मी × 8 मी विमाओं वाले एक कमरे में रखी जा सकने वाली सबसे लंबी छड़ की लंबाई ज्ञात कीजिए।",
+    "A": "15 m / मी",
+    "B": "17 m / मी",
+    "C": "21 m / मी",
+    "D": "19 m / मी",
+    "Correct": "B"
+  },
+  {
+    "Question": "The HCF and LCM of two numbers are 12 and 240 respectively. If one of the numbers is 48, find the other number. / दो संख्याओं का म.स.प. (HCF) और ल.स.प. (LCM) क्रमशः 12 और 240 हैं। यदि उनमें से एक संख्या 48 है, तो दूसरी संख्या ज्ञात कीजिए।",
+    "A": "60",
+    "B": "72",
+    "C": "50",
+    "D": "80",
+    "Correct": "A"
+  },
+  {
+    "Question": "If a : b = 3 : 4, then find the value of (5a + 2b) : (7a - 2b). / यदि a : b = 3 : 4 है, तो (5a + 2b) : (7a - 2b) का मान ज्ञात कीजिए।",
+    "A": "23 : 13",
+    "B": "13 : 23",
+    "C": "7 : 5",
+    "D": "19 : 11",
+    "Correct": "A"
+  },
+  {
+    "Question": "A sum of money invested at compound interest amounts to $4624 in 2 years and to $4913 in 3 years. Find the rate of interest per annum. / चक्रवृद्धि ब्याज पर निवेश की गई कोई धनराशि 2 वर्षों में $4624 और 3 वर्षों में $4913 हो जाती है। वार्षिक ब्याज दर ज्ञात कीजिए।",
+    "A": "5%",
+    "B": "6.25%",
+    "C": "8%",
+    "D": "7.5%",
+    "Correct": "B"
+  }
+]
